@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MultimediaFiles\\Programming\\C#\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5067D4BA-B31A-427C-B879-0D594E6A1204}|Shop.csproj|e:\\multimediafiles\\programming\\c#\\shop\\.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5067D4BA-B31A-427C-B879-0D594E6A1204}|Shop.csproj|solutionrelative:.gitignore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5067D4BA-B31A-427C-B879-0D594E6A1204}|Shop.csproj|e:\\multimediafiles\\programming\\c#\\shop\\userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5067D4BA-B31A-427C-B879-0D594E6A1204}|Shop.csproj|solutionrelative:userspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5067D4BA-B31A-427C-B879-0D594E6A1204}|Shop.csproj|e:\\multimediafiles\\programming\\c#\\shop\\shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5067D4BA-B31A-427C-B879-0D594E6A1204}|Shop.csproj|solutionrelative:shoppage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5067D4BA-B31A-427C-B879-0D594E6A1204}|Shop.csproj|e:\\multimediafiles\\programming\\c#\\shop\\shoppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5067D4BA-B31A-427C-B879-0D594E6A1204}|Shop.csproj|solutionrelative:shoppage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5067D4BA-B31A-427C-B879-0D594E6A1204}|Shop.csproj|e:\\multimediafiles\\programming\\c#\\shop\\userspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{5067D4BA-B31A-427C-B879-0D594E6A1204}|Shop.csproj|solutionrelative:userspage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\MultimediaFiles\\Programming\\C#\\Shop\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "E:\\MultimediaFiles\\Programming\\C#\\Shop\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-06-24T20:49:25.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersPage.xaml",
+              "DocumentMoniker": "E:\\MultimediaFiles\\Programming\\C#\\Shop\\UsersPage.xaml",
+              "RelativeDocumentMoniker": "UsersPage.xaml",
+              "ToolTip": "E:\\MultimediaFiles\\Programming\\C#\\Shop\\UsersPage.xaml",
+              "RelativeToolTip": "UsersPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T20:43:30.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsersPage.xaml.cs",
+              "DocumentMoniker": "E:\\MultimediaFiles\\Programming\\C#\\Shop\\UsersPage.xaml.cs",
+              "RelativeDocumentMoniker": "UsersPage.xaml.cs",
+              "ToolTip": "E:\\MultimediaFiles\\Programming\\C#\\Shop\\UsersPage.xaml.cs",
+              "RelativeToolTip": "UsersPage.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T20:14:24.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShopPage.xaml.cs",
+              "DocumentMoniker": "E:\\MultimediaFiles\\Programming\\C#\\Shop\\ShopPage.xaml.cs",
+              "RelativeDocumentMoniker": "ShopPage.xaml.cs",
+              "ToolTip": "E:\\MultimediaFiles\\Programming\\C#\\Shop\\ShopPage.xaml.cs",
+              "RelativeToolTip": "ShopPage.xaml.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T19:59:13.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShopPage.xaml",
+              "DocumentMoniker": "E:\\MultimediaFiles\\Programming\\C#\\Shop\\ShopPage.xaml",
+              "RelativeDocumentMoniker": "ShopPage.xaml",
+              "ToolTip": "E:\\MultimediaFiles\\Programming\\C#\\Shop\\ShopPage.xaml",
+              "RelativeToolTip": "ShopPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T19:54:29.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

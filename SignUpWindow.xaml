@@ -1,0 +1,30 @@
+﻿<Window x:Class="Shop.SignUpWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ui="http://schemas.modernwpf.com/2019"
+        Width="800"
+        Height="450"
+        Title="Регистрация"
+        WindowStartupLocation="CenterScreen"
+        ui:WindowHelper.UseModernWindowStyle="True">
+    <Border Padding="20"
+            VerticalAlignment="Center"
+            HorizontalAlignment="Center">
+        <StackPanel>
+            <TextBlock Margin="20" FontSize="24" TextAlignment="Center" Text="Название магазина"/>
+            <ui:AutoSuggestBox x:Name="LoginBox" Margin="10,0" Padding="20" PlaceholderText="Логин"/>
+            <ui:AutoSuggestBox x:Name="PassBox" Margin="10,10,10,0" Padding="20" PlaceholderText="Пароль"/>
+            <ui:AutoSuggestBox x:Name="RepPassBox" Margin="10,10,10,0" Padding="20" PlaceholderText="Повторите пароль"/>
+            <Button Padding="40,10"
+                    Margin="10,10,10,0"
+                    Click="SignUp_Click"
+                    Content="Зарегистрироваться"
+                    HorizontalAlignment="Stretch"/>
+            <Button Margin="10"
+                    Padding="40,10"
+                    Content="Войти"
+                    Click="Login_Click"
+                    HorizontalAlignment="Stretch"/>
+        </StackPanel>
+    </Border>
+</Window>
